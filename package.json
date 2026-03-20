@@ -1,0 +1,19 @@
+{
+  "name": "rishi-raj-sahoo-website",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Rishi Raj Sahoo",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "echo 'No build step needed for static site'"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "computer-science",
+    "machine-learning",
+    "research"
+  ],
+  "author": "Rishi Raj Sahoo",
+  "license": "MIT"
+}

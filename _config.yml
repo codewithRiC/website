@@ -1,0 +1,22 @@
+# GitHub Pages deployment configuration
+# This file is optional but recommended for GitHub Pages
+
+# Build settings
+markdown: kramdown
+theme: null
+
+# Site settings
+title: Rishi Raj Sahoo
+description: Ph.D. Scholar in Computer Science - Machine Learning, Explainability, Privacy
+baseurl: ""
+url: ""
+
+# Social settings
+github_username: codewithRiC
+linkedin_username: rishi-raj-sahoo
+scholar_url: https://scholar.google.com
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
