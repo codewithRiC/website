@@ -556,6 +556,21 @@ section h2 {
         animation: slideDown 0.3s ease-out;
     }
 
+    :root.dark-theme .nav-menu {
+        background-color: #1f2a36;
+        border: 1px solid #32485f;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
+    }
+
+    :root.dark-theme .nav-menu a {
+        color: #ecf0f1;
+    }
+
+    :root.dark-theme .nav-menu a:hover {
+        color: #8ecdf5;
+        background-color: rgba(255, 255, 255, 0.08);
+    }
+
     @keyframes slideDown {
         from {
             opacity: 0;
